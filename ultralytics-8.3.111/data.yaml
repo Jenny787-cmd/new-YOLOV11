@@ -1,0 +1,10 @@
+train: D:/jisuanjishijue/archive/larch/images/train
+val: D:/jisuanjishijue/archive/larch/images/val
+test: D:/jisuanjishijue/archive/larch/images/test
+
+# 必须添加labels目录配置（关键！）
+train_labels: D:/jisuanjishijue/archive/larch/labels/train
+val_labels: D:/jisuanjishijue/archive/larch/labels/val
+
+nc: 4
+names: ['class_1', 'class_2', 'class_3','class_4']
