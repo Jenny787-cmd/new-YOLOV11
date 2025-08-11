@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@connect.nmb2.seetacloud.com:24532/root/miniconda3/envs/py38/bin/python" />
+        <remote-mappings server-id="python@sftp://root@connect.nmb1.seetacloud.com:21434/root/miniconda3/envs/py38/bin/python" />
+        <remote-mappings server-id="python@sftp://root@connect.nmb2.seetacloud.com:44286/root/miniconda3/envs/py38/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>

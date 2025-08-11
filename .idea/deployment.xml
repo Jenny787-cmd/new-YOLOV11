@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@connect.nmb1.seetacloud.com:17359">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:21434">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:35401">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:24532">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:24532 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:39247">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:39247 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:40468">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:44286">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:44286 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:44286 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl-fs/data/autodl-fs/data/yolo" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:44286 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/autodl - fs/data/autodl - fs/data/yolo " local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb2.seetacloud.com:44286 (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-fs/autodl-fs/data/yolo/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
